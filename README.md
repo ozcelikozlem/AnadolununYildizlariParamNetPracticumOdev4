@@ -1,1 +1,1 @@
-# AnadolununYildizlariParamNetPracticumOdev4
+# Anadolu'nun Yıldızları Param .Net Practicum Ödev 4
