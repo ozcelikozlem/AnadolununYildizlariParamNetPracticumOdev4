@@ -9,7 +9,7 @@
 - Global exception middleware
 - Global loglama yapan bir middleware
 - Dependency injection
-#### Proje İçeriği
+#### Proje Görseli
 * Model Validasyonu
 
 ![ModelValidasyonu](/images/Odev4-1.jpg)
